@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Hello, Jekyll"
-date:   2019-05-23 21:03:36 +0530
+title:  "Why  AMRITA-CS-STAR"
+date:   2020-03-01
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+I always want to grab the opportunities provided to me and do the best in it. I always want to do something additional and get more. AMRITA-CS-STAR looked like a very good opportunity to learn more and do more. I am interested in web developmemnt and these tasks also looked interesting while i was doing them. I would like to learn more under a good guidance, hence would want to be part of this.  
 
 ![texture theme preview](https://images.unsplash.com/photo-1500322969630-a26ab6eb64cc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80)
 
